@@ -14,7 +14,7 @@ pip3 install -r requirements.txt
 Set OpenAI API key:
 
 ```bash
-export OPENAI_API_KEY="your_api_key_here"
+export OPENAI_API_KEY="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"
 ```
 
 ---

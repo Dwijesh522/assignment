@@ -1,0 +1,7 @@
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+numpy>=1.22
+tqdm>=4.60
+rank-bm25>=0.2.2
+openai>=0.27.0
+regex

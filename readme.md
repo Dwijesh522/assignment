@@ -1,5 +1,3 @@
-Here is the complete README in proper `.md` format. You can copy-paste it directly into your `README.md` file.
-
 ````markdown
 # Mini RAG System
 
